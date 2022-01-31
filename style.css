@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: small;
+  font-weight: bold;
+}
+
+ul {
+  padding: 0px;
+  list-style-type: none;
+}
+
+li {
+  margin: 5px 0px;
+}
+
+.accent {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.text-body {
+  border-left: solid 4px gray;
+  padding-left: 20px;
+}
